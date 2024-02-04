@@ -1,4 +1,4 @@
-# Module 14 Challenge: Belly Button Biodiversity
+# Module 14 Challenge: Belly Button Biodiversity 🦠
 
 ## Background
 
