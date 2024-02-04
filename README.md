@@ -14,9 +14,9 @@ The following steps were completed to build the interactive dashboard:
 
 1. **Read `samples.json`**: Used the `D3 library` to read in `samples.json` from the URL [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json].
 
-2. **Horizontal Bar Chart**: Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in an individual. Used `sample_values` as the values for the bar chart, `otu_ids` as the labels, and `otu_labels` as the hovertext.
+2. **Horizontal Bar Chart**: Created a `Pyplot` horizontal bar chart with a dropdown menu to display the top 10 OTUs found in an individual. Used `sample_values` as the values for the bar chart, `otu_ids` as the labels, and `otu_labels` as the hovertext.
 
-3. **Bubble Chart**: Created a bubble chart displaying each sample. Used `otu_ids` for the x values, `sample_values` for the y values, `sample_values` for the marker size, `otu_ids` for the marker colors, and `otu_labels` for the text values.
+3. **Bubble Chart**: Created a `Pyplot` bubble chart displaying each sample. Used `otu_ids` for the x values, `sample_values` for the y values, `sample_values` for the marker size, `otu_ids` for the marker colors, and `otu_labels` for the text values.
 
 4. **Sample Metadata**: Displayed the sample metadata, i.e., an individual's demographic information, showcasing each key-value pair from the metadata JSON object on the page.
 
