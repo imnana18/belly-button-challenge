@@ -32,6 +32,12 @@ An optional advanced task was also tackled:
 
 ## Deployment
 
-The app has been deployed to GitHub for viewing [here](https://imnana18.github.io/belly-button-challenge/).
+Deployed the app to a free static page hosting service, such as GitHub Pages. The deployment and GitHub repo links are provided below.
+- [Deployed App](https://imnana18.github.io/belly-button-challenge/).
+- [Github Repository](https://github.com/imnana18/belly-button-challenge). 
 
- 
+## Conclusion
+
+The project was successfully completed, and the interactive dashboard provided a comprehensive exploration of the Belly Button Biodiversity dataset. The app was deployed on GitHub Pages for easy access. For more details, refer to the [GitHub repository](https://github.com/imnana18/belly-button-challenge).
+
+Feel free to explore the deployed dashboard and navigate through the various visualizations to delve into the fascinating world of belly button biodiversity!
