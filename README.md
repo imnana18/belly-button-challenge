@@ -41,3 +41,7 @@ Deployed the app to a free static page hosting service, such as GitHub Pages. Th
 The project was successfully completed, and the interactive dashboard provided a comprehensive exploration of the Belly Button Biodiversity dataset. The app was deployed on GitHub Pages for easy access. For more details, refer to the [GitHub repository](https://github.com/imnana18/belly-button-challenge).
 
 Feel free to explore the deployed dashboard and navigate through the various visualizations to delve into the fascinating world of belly button biodiversity!
+
+## References
+
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: [Belly Button Biodiversity Results and Data](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/).
