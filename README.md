@@ -6,7 +6,7 @@ In this assignment, an interactive dashboard was designed to explore the Belly B
 
 ## Setup
 
-Required files for this project were downloaded from the Module 14 Challenge zip file [here] ([https://link-to-your-files](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/Starter_Code.zip)).
+Required files for this project were downloaded from the Module 14 Challenge zip file [here]([https://link-to-your-files](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/Starter_Code.zip).
 
 ## Process
 
