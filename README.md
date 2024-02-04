@@ -32,6 +32,6 @@ An optional advanced task was also tackled:
 
 ## Deployment
 
-The app has been deployed to GitHub for viewing [here](https://github.com/imnana18/belly-button-challenge).
+The app has been deployed to GitHub for viewing [here]([https://imnana18.github.io/belly-button-challenge/)https://imnana18.github.io/belly-button-challenge/]).
 
  
