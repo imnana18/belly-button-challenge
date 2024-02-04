@@ -12,7 +12,7 @@ Required files for this project were downloaded from the Module 14 Challenge zip
 
 The following steps were completed to build the interactive dashboard:
 
-1. **Read `samples.json`**: Used the D3 library to read in `samples.json` from the URL [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json).
+1. **Read `samples.json`**: Used the `D3 library` to read in `samples.json` from the URL [https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json].
 
 2. **Horizontal Bar Chart**: Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in an individual. Used `sample_values` as the values for the bar chart, `otu_ids` as the labels, and `otu_labels` as the hovertext.
 
